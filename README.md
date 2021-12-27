@@ -41,9 +41,9 @@ instruction below):
 
 ## Phase 0: Setup
 
-**(1)** Fork this [repo][repo].
-**(2)** Clone the repo to your computer.
-**(3)**`npm install` in your terminal.
+- Fork this [repo][repo]. 
+- Clone the repo to your computer.
+- `npm install` in your terminal.
 
 This will create your `node_modules` directory.
 
@@ -53,10 +53,10 @@ This will create your `node_modules` directory.
 
 ```
 
-**(4)** Once the above command finishes `npm install react-router-dom@^5` to
+- Once the above command finishes `npm install react-router-dom@^5` to
 install the React Router v5 library.
 
-**(5)** Start your development server by running:
+- Start your development server by running:
 
 ```bash
     
