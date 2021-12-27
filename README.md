@@ -21,7 +21,7 @@ following React Router components and hook:
 You will also learn how to specify unique keys when creating arrays of JSX
 elements to render. 
 
-## Phase 0: Setup
+## Overview
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -39,7 +39,12 @@ instruction below):
    data.
 10. Import `harvardArt` and `console.log` it.
 
-**(1)** Once you have forked this repo, `npm install` in your terminal.
+## Phase 0: Setup
+
+**(1)** Fork this [repo][repo].
+**(2)** Clone the repo to your computer.
+**(3)**`npm install` in your terminal.
+
 This will create your `node_modules` directory.
 
 ```bash
@@ -48,11 +53,10 @@ This will create your `node_modules` directory.
 
 ```
 
-
-**(2)** Once the above command finishes `npm install react-router-dom@^5` to
+**(4)** Once the above command finishes `npm install react-router-dom@^5` to
 install the React Router v5 library.
 
-**(3)** Start your development server by running:
+**(5)** Start your development server by running:
 
 ```bash
     
@@ -503,3 +507,4 @@ more of a challenge!
 [switch]: https://reactrouter.com/web/api/Switch
 
 
+[repo]:https://github.com/jdrichardsappacad/art-history-museum-router-v5
